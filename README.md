@@ -11,6 +11,9 @@ This repository contains some loss function which we find from papers or blogs. 
 ## Huber Loss
 
 
+## Weighted Softmax Cross Entropy 
+
+
 ## Issue
 
 If your find some wrong in the loss, please use issue to make me know it.
