@@ -1,5 +1,3 @@
-import sys
-sys.path.insert(0, '/data2/obj_detect/mxnet/0.11.0/python')
 import mxnet as mx
 
 def weighted_softmax_loss(data, weighted, label):
